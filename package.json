@@ -15,14 +15,14 @@
     "nano-date": "^3.0.0"
   },
   "devDependencies": {
-    "autod": "^3.0.0",
-    "autod-egg": "^1.0.0",
-    "egg": "^2.0.0",
-    "egg-bin": "^4.3.0",
+    "autod": "^3.0.1",
+    "autod-egg": "^1.1.0",
+    "egg": "^2.9.1",
+    "egg-bin": "^4.7.1",
     "egg-ci": "^1.8.0",
-    "egg-mock": "^3.13.0",
-    "eslint": "^4.11.0",
-    "eslint-config-egg": "^5.1.0",
+    "egg-mock": "^3.17.3",
+    "eslint": "^5.2.0",
+    "eslint-config-egg": "^7.0.0",
     "webstorm-disable-index": "^1.2.0"
   },
   "engines": {
@@ -38,9 +38,8 @@
     "autod": "autod"
   },
   "files": [
-    "app.js",
-    "agent.js",
-    "config"
+    "config",
+    "app.js"
   ],
   "ci": {
     "version": "8, 9"
