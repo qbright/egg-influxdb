@@ -1,5 +1,5 @@
 {
-  "name": "egg-influxDB",
+  "name": "egg-influxdb",
   "version": "1.0.0",
   "description": "",
   "eggPlugin": {
